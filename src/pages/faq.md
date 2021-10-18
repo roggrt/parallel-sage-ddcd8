@@ -35,7 +35,7 @@ sections:
 
           *   Si recibiste un producto que no funciona mandanos un mensaje de
           texto para analizar tu caso y cubrir la garantia
-      - question: How do you handle sensitive customer information?
+      - question: Como manejan la informacion domiciliaria?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
           am I right? Make sure you’re as transparent as possible with your data
