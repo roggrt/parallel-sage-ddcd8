@@ -6,9 +6,8 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Preguntas y respuestas
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: |
+      Preguntas frecuentes que podrían hacerse nuestros clientes
   - type: faq_section
     section_id: faq_section
     questions:
