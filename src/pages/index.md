@@ -36,7 +36,7 @@ sections:
     testimonials:
       - author:
           name: El vecino
-          location: 'Cuenca, USA'
+          location: 'Cuenca, Ecuador'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
           is that Planty theme. I'm going to launch a killer JAMstack e-commerce
