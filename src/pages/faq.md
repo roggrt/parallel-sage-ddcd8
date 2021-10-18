@@ -45,7 +45,7 @@ sections:
     section_id: contact_section
     address: 'Americas 2-50 y Borrero, Cuenca Ecuador'
     phone: +593-968653955
-    email: geeks@snipcart.com
+    email: tronicshops@ventas.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
