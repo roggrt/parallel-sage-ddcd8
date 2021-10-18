@@ -8,7 +8,7 @@ export default class ProductCard extends React.Component {
         let product_page = _.get(this.props, 'product_page', null);
         return (
             <li className="product__card">
-                <h1></h1>
+                <h1>Tronicshops</h1>
                 <figure className="product__card__image">
                     <Picture {...this.props} image={_.get(product_page, 'frontmatter.default_thumbnail_image', null)} alt={_.get(product_page, 'frontmatter.title', null)} />
                 </figure>
