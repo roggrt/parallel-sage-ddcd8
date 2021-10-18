@@ -11,7 +11,7 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How long does shipping take?
+      - question: Cuanto demora un envio?
         answer: >-
           Now that’s a frequent one all right, ain’t it? Your answer to this
           should *manage customer expectations*. Just like [a good checkout
