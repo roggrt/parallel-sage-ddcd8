@@ -3,7 +3,7 @@ title: Laptops
 order: 1
 seo:
   title: Laptops
-  description: This is the store page
+  description: Equipos portatiles
   extra:
     - name: 'og:type'
       value: website
