@@ -2,7 +2,7 @@
 title: Celulares
 order: 2
 seo:
-  title: Cactuses
+  title: Celulares
   description: This is the store page
   extra:
     - name: 'og:type'
