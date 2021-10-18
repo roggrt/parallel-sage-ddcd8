@@ -23,13 +23,18 @@ sections:
 
           *   Envíos internacionales dependerán de la aerolínea 
       - question: Como funcionan los reembolsos?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
+        answer: >
+          Si no recibes el producto que esperabas tendrás un reembolso de esta
+          forma:
 
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+
+          *   Cupones de descuento por el valor del producto
+
+          *   Si quieres otra version del producto envianos de nuevo a nuestras
+          oficinas para autorizar el envio
+
+          *   Si recibiste un producto que no funciona mandanos un mensaje de
+          texto para analizar tu caso y cubrir la garantia
       - question: How do you handle sensitive customer information?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
