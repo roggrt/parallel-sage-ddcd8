@@ -12,14 +12,16 @@ sections:
     section_id: faq_section
     questions:
       - question: Cuanto demora un envio?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+        answer: >
+          Una vez que se procese tu compra nos tomara unas horas validar el
+          pago, si este se verifica:
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+
+          *   De 2 a 3 días laborables se puede enviar dentro del país
+
+          *   Para envíos a pueblos puede tomar hasta 5 días
+
+          *   Envíos internacionales dependerán de la aerolínea 
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
