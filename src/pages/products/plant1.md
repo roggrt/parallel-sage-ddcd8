@@ -2,10 +2,7 @@
 id: '1'
 price: '49.40'
 title: Asus Vivobook
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: Laptop marca asus
 default_thumbnail_image: images/1582825769_IMG_1324219.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
