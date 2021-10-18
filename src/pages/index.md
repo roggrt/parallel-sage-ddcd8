@@ -11,7 +11,7 @@ sections:
 
       compra primero, paga después :)
     actions:
-      - title: See all items
+      - title: Ver los productos
         url: /store
         arrow: true
         style: primary
