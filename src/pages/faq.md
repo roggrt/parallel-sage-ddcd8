@@ -35,7 +35,7 @@ sections:
 
           *   Si recibiste un producto que no funciona mandanos un mensaje de
           texto para analizar tu caso y cubrir la garantia
-      - question: Como manejan la informacion domiciliaria?
+      - question: Como manejan la información domiciliaria?
         answer: >
           Una vez que se valida la compra y se procede al envío esa información
           la mandaremos a una base de datos (en la área 51) de privacidad oculta
