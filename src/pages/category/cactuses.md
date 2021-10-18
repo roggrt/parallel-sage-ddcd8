@@ -3,7 +3,7 @@ title: Celulares
 order: 2
 seo:
   title: Celulares
-  description: This is the store page
+  description: Celulares
   extra:
     - name: 'og:type'
       value: website
