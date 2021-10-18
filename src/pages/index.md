@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/gg.jpeg
+    background_image: images/stok.jpg
     background_image_opacity: 65
     content: |
       # Los mejores productos electrónicos los encuentras aquí 
