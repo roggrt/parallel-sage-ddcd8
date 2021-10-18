@@ -46,7 +46,7 @@ sections:
     address: 'Americas 2-50 y Borrero, Cuenca Ecuador'
     phone: +593-968653955
     email: tronicshops@ventas.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/1cb69Pn4xhcdg6FB6'
 seo:
   title: FAQ
   description: This is the faq page
