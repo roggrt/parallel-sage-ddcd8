@@ -22,7 +22,7 @@ sections:
           *   Para envíos a pueblos puede tomar hasta 5 días
 
           *   Envíos internacionales dependerán de la aerolínea 
-      - question: How do refunds and returns work?
+      - question: Como funcionan los reembolsos?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
