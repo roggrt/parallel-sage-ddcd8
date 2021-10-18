@@ -35,16 +35,6 @@ sections:
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
         image: images/team.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
-      style: primary
-      arrow: true
 seo:
   title: About
   description: This is the about page
