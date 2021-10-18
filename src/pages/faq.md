@@ -44,7 +44,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Americas 2-50 y Borrero, Cuenca Ecuador'
-    phone: +1-202-555-0112
+    phone: +593-968653955
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
