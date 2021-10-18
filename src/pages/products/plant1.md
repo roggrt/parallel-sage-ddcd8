@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '250.00'
+price: '250.01'
 title: Asus Vivobook
 description: Laptop marca asus
 default_thumbnail_image: images/1582825769_IMG_1324219.jpg
