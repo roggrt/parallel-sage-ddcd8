@@ -2,7 +2,7 @@
 title: Laptops
 order: 1
 seo:
-  title: Big plants
+  title: Laptops
   description: This is the store page
   extra:
     - name: 'og:type'
