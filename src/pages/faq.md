@@ -40,18 +40,6 @@ sections:
           Una vez que se valida la compra y se procede al envío esa información
           la mandaremos a una base de datos (en la área 51) de privacidad oculta
           para que nadie pueda acceder a ella
-      - question: Rapid-fire questions
-        answer: >
-          Q: Porque son los mejores?  A: We hired our first designer a couple of
-          months ago.  Q: Why did you build a theme for Stackbit?  A: We believe
-          in Stackbit’s promise of opening up the JAMstack to more developers.
-          Plus, we trust these folks. [Read more about
-          Stackbit](http://bit.ly/2YAvGix).  Q: How many people work at
-          Snipcart?  A: Not a lot! We’re a small, bootstrapped team of eight
-          human beings. Michael might be a robot, though.  Q: Why is Snipcart
-          based in Québec City?  A: Have you been here? It’s beaaautiful!  Q:
-          What’s the meaning of life?  A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
