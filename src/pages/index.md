@@ -38,9 +38,7 @@ sections:
           name: El vecino
           location: 'Cuenca, Ecuador'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          Desde que he comprado aqui he notado que mi dinero me dura mas 
       - author:
           name: Major Payne
           location: 'VA, USA'
